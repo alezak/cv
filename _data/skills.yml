@@ -1,18 +1,18 @@
 - skill:
-  name: MS Office
-  level: 98%
+  name: Microsoft Office (Excel, Word, PowerPoint)
+  level: 80%
 - skill:
   name: SQL
-  level: 75%
+  level: 60%
 - skill:
   name: Matlab & Scilab
   level: 60%
 - skill:
   name: Mathematica
-  level: 68%
+  level: 50%
 - skill:
   name: LaTeX
-  level: 66%
+  level: 70%
 - skill:
   name: VBA
-  level: 34%
+  level: 30%
