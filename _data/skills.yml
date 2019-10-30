@@ -3,16 +3,16 @@
   level: 80%
 - skill:
   name: SQL
-  level: 50%
+  level: 40%
 - skill:
   name: Matlab
-  level: 50%
+  level: 40%
 - skill:
   name: Mathematica
-  level: 50%
+  level: 40%
 - skill:
   name: LaTeX
   level: 70%
 - skill:
   name: VBA
-  level: 10%
+  level: 20%
